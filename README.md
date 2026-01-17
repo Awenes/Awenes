@@ -40,7 +40,7 @@ I optimize for **long-term system health**, not short-term demos.
 
 * **Languages:** TypeScript, JavaScript, C#
 * **Frameworks:** React, Next.js, Node.js, ASP.NET
-* **Data:** MongoDB, SQL, Prisma
+* **Data:** MongoDB, SQL
 * **Tooling:** Git, GitHub, VS Code
 
 ---
