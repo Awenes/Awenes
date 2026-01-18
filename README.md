@@ -1,4 +1,4 @@
-# Hi, I'm Awenes
+# Hi, I'm Precious
 
 Software Engineer with a strong focus on **scalable systems, frontend architecture, and engineering rigor**.
 I build production-grade applications with an emphasis on **performance, maintainability, and clear architectural trade-offs**.
